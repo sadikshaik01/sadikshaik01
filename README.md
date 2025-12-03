@@ -4,6 +4,11 @@
 </p>
 
 <h1 align="center">✨ Kon'nichiwa! I'm <b>SHAIK SADIK</b> 🚀</h1>
+
+<p align="center">
+  <img src="./assets/avatar.gif" alt="avatar" width="128" style="border-radius:50%; box-shadow:0 8px 24px rgba(0,0,0,0.4);" />
+</p>
+
 <p align="center"><em>Anime-Themed Developer • Web Developer • CSE Student</em></p>
 
 ---
@@ -30,7 +35,7 @@ I blend **logic + design** to create interactive, cute, and smooth websites.
 **Database:** MySQL  
 **Tools:** Git · GitHub
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git,github" alt="skills" />
 </p>
 
@@ -49,7 +54,7 @@ I blend **logic + design** to create interactive, cute, and smooth websites.
 | MultiCloudNetwork | [View PDF](./cirtificates/MultiCloudNetwork.pdf) |
 | Oracle AI Foundations | [View PDF](./cirtificates/oracle-eCertificate-AI%20Fundatio....pdf) |
 | Salesforce | [View PDF](./cirtificates/salseforce.pdf) |
-| Sadik Shaik | [View PDF](./cirtificates/Sadik%20Shaik.pdf) |
+| Linguaskill Business English (Cambridge) | [View PDF](./cirtificates/Sadik%20Shaik.pdf) |
 
 ---
 
@@ -57,68 +62,70 @@ I blend **logic + design** to create interactive, cute, and smooth websites.
 
 ### 🔹 **Online Art Gallery**  
 Small, aesthetic gallery app for browsing and purchasing artworks — nice animations, responsive UI.  
-Repo: https://github.com/sadikshaik01/OnlineArtGallery-Project
+🔗 Repo: https://github.com/sadikshaik01/OnlineArtGallery-Project
 
 ### 🔹 **News Aggregator**  
 Full-stack news app that fetches and categorizes latest news with a clean UI.  
-Repo: https://github.com/sadikshaik01/News-Aggregator-project
+🔗 Repo: https://github.com/sadikshaik01/News-Aggregator-project
 
 ### 🔹 **JobPortel**  
 Job listing portal with filters and application flow.  
-Repo: https://github.com/sadikshaik01/JobPortel
+🔗 Repo: https://github.com/sadikshaik01/JobPortel
 
 ---
 
 ## 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/shaik-sadik-b23516328/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="36" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaik-sadik-b23516328/" title="LinkedIn" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" />
+  </a>
   &nbsp;
-  <a href="mailto:shaiksadik2968@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="36" /></a>
+  <a href="mailto:shaiksadik2968@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" />
+  </a>
   &nbsp;
-  <a href="https://github.com/sadikshaik01" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="36" /></a>
+  <a href="https://github.com/sadikshaik01" title="GitHub" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=github" width="36" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadikshaik01&show_icons=true&theme=tokyonight" height="160" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikshaik01&layout=compact&theme=tokyonight" height="160" alt="top languages" />
+  <!-- Main stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sadikshaik01&show_icons=true&theme=tokyonight&hide_border=true" alt="SHAIK SADIK's GitHub stats" height="160" />
+  &nbsp;&nbsp;
+  <!-- Top languages: increased langs_count for better coverage -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikshaik01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadikshaik01&theme=tokyonight" alt="github streak" />
+  <!-- Streak / activity -->
+  <img src="https://streak-stats.demolab.com?user=sadikshaik01&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
----
-
-## 🏆 Badges & Achievements
 <p align="center">
-  <img src="https://img.shields.io/badge/Anime%20Coder-%F0%9F%8E%83-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Learner-%E2%9C%A8-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-%F0%9F%90%8E-pink?style=for-the-badge" />
+  <!-- Fallback: if top-langs is blank, this small badge shows primary language using shields -->
+  <img src="https://img.shields.io/badge/Primary%20Stack-HTML%20%7C%20JavaScript%20%7C%20React-blue?style=for-the-badge" alt="primary stack" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact (Slayercore Vibes)
-I build websites that look like they came straight out of a Toon World 🎨✨ — Interactive, cute, smooth, and full of personality!
+I build websites that look like they came straight out of a anime World 🎨✨ — interactive, cute, smooth, and full of personality!
 
 <p align="center">
-  <img src="./assets/gif1.gif" alt="cute anime gif" style="max-width:420px;border-radius:12px;" />
+  <!-- use gif1 + gif2 as decorative looping content -->
+  <img src="./assets/gif1.gif" alt="cute loop 1" style="max-width:360px;border-radius:12px;margin-right:12px;" />
+ 
 </p>
 
 ---
 
-## 🖼️ Extras
+## 🎌 Closing GIF (Luffy hype)
 <p align="center">
-  <img src="./assets/gif2.gif" alt="decoration gif" width="240" />
-  &nbsp;
-  <img src="./assets/avatar.png" alt="chibi avatar" width="120" style="border-radius:50%;" />
+  <img src="./assets/luffy josh.gif" alt="closing luffy gif" style="max-width:420px;border-radius:12px;" />
 </p>
 
----
-
-## 🙏 Thanks for visiting my profile!  
-**Have a great day — keep building magical web experiences!** ✨
-  
+<p align="center"><strong>Thanks for visiting my profile — have a great day! ✨</strong></p>
