@@ -123,7 +123,7 @@ I build websites that look like they came straight out of a anime World 🎨✨ 
 
 ---
 
-## 🎌 Closing GIF (Luffy hype)
+## 🎌 Luffy hype
 <p align="center">
   <img src="./assets/luffy josh.gif" alt="closing luffy gif" style="max-width:420px;border-radius:12px;" />
 </p>
