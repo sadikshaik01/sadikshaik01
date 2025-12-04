@@ -6,7 +6,7 @@
 <h1 align="center">✨ Kon'nichiwa! I'm <b>SHAIK SADIK</b> 🚀</h1>
 
 <p align="center">
-  <img src="./assets/avatar.gif" alt="avatar" width="128" style="border-radius:50%; box-shadow:0 8px 24px rgba(0,0,0,0.4);" />
+  <img src="./assets/flying luffy gare5.gif" alt="avatar" width="128" style="border-radius:50%; box-shadow:0 8px 24px rgba(0,0,0,0.4);" />
 </p>
 
 <p align="center"><em>Anime-Themed Developer • Web Developer • CSE Student</em></p>
@@ -92,23 +92,27 @@ Job listing portal with filters and application flow.
 ---
 
 ## 📊 GitHub Stats & Languages
+
+<!-- ✔️ Profile Summary Cards (stable + always visible) -->
 <p align="center">
-  <!-- Main stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sadikshaik01&show_icons=true&theme=tokyonight&hide_border=true" alt="SHAIK SADIK's GitHub stats" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadikshaik01&theme=tokyonight" width="90%" />
+</p>
+
+<p align="center">
+  <!-- ✔️ Stats card (mirror that works even if main stats are down) -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sadikshaik01&theme=tokyonight&show_icons=true" height="170"/>
+  
   &nbsp;&nbsp;
-  <!-- Top languages: increased langs_count for better coverage -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikshaik01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+
+  <!-- ✔️ Top Languages (very stable mirror) -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadikshaik01&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <!-- Streak / activity -->
-  <img src="https://streak-stats.demolab.com?user=sadikshaik01&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <!-- ✔️ Streak stats (this provider is stable & rarely breaks) -->
+  <img src="https://streak-stats.demolab.com?user=sadikshaik01&theme=tokyonight&hide_border=false" height="190" />
 </p>
 
-<p align="center">
-  <!-- Fallback: if top-langs is blank, this small badge shows primary language using shields -->
-  <img src="https://img.shields.io/badge/Primary%20Stack-HTML%20%7C%20JavaScript%20%7C%20React-blue?style=for-the-badge" alt="primary stack" />
-</p>
 
 ---
 
