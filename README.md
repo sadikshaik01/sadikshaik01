@@ -98,15 +98,7 @@ Job listing portal with filters and application flow.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadikshaik01&theme=tokyonight" width="90%" />
 </p>
 
-<p align="center">
-  <!-- ✔️ Stats card (mirror that works even if main stats are down) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sadikshaik01&theme=tokyonight&show_icons=true" height="170"/>
-  
-  &nbsp;&nbsp;
 
-  <!-- ✔️ Top Languages (very stable mirror) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadikshaik01&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 <p align="center">
   <!-- ✔️ Streak stats (this provider is stable & rarely breaks) -->
