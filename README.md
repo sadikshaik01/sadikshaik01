@@ -1,15 +1,11 @@
 <!-- ===== Anime Banner (upload ./assets/banner.gif) ===== -->
-<p align="center">
-  <img src="./assets/banner.gif" alt="anime banner" style="max-width:100%; border-radius:12px;" />
-</p>
+
 
 <h1 align="center">✨ Kon'nichiwa! I'm <b>SHAIK SADIK</b> 🚀</h1>
 
-<p align="center">
-  <img src="./assets/flying luffy gare5.gif" alt="avatar" width="128" style="border-radius:50%; box-shadow:0 8px 24px rgba(0,0,0,0.4);" />
-</p>
 
-<p align="center"><em>Anime-Themed Developer • Web Developer • CSE Student</em></p>
+
+<p align="center"><em>• Web Developer • CSE Student</em></p>
 
 ---
 
@@ -111,17 +107,10 @@ Job listing portal with filters and application flow.
 ## ⚡ Fun Fact (Slayercore Vibes)
 I build websites that look like they came straight out of a anime World 🎨✨ — interactive, cute, smooth, and full of personality!
 
-<p align="center">
-  <!-- use gif1 + gif2 as decorative looping content -->
-  <img src="./assets/gif1.gif" alt="cute loop 1" style="max-width:360px;border-radius:12px;margin-right:12px;" />
- 
-</p>
+
 
 ---
 
-## 🎌 Luffy hype
-<p align="center">
-  <img src="./assets/luffy josh.gif" alt="closing luffy gif" style="max-width:420px;border-radius:12px;" />
-</p>
+
 
 <p align="center"><strong>Thanks for visiting my profile — have a great day! ✨</strong></p>
