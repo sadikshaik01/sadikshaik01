@@ -1,4 +1,4 @@
-name: GitHub Snake Animation
+name: Snake Animation
 
 on:
   schedule:
@@ -6,23 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Generate snake animation (light mode)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_login: sadikshaik01
-          outputs: dist/github-snake.svg
-
-      - name: Generate snake animation (dark mode)
-        uses: Platane/snk@v3
-        with:
-          github_user_login: sadikshaik01
-          outputs: dist/github-snake-dark.svg
+          github_user: ${{ github.actor }}
+          outputs: dist/github-snake.svg,dist/github-snake-dark.svg
           palette: github-dark
 
       - name: Deploy to output branch
