@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Shaik%20Sadik&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+# 👋 Hi, I'm Shaik Sadik
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+%26+Full+Stack+Developer;B.Tech+CSE+%40+KL+University;Building+clean+UI+%26+smooth+UX;Always+learning%2C+always+building." alt="Typing SVG" />
-</h3>
+### B.Tech CSE Student • Full Stack Developer • AI/ML Enthusiast
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/sadikshaik01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-sadik-b23516328/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaiksadik2968@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-%232563EB.svg?style=flat-square&logo=googledrive&logoColor=white)](./CV/SHAIK.SADIK-RESUME.pdf)
-[![Profile Views](https://komarev.com/ghpvc/?username=sadikshaik01&style=flat-square&color=6366F1&label=Profile+Views)](https://github.com/sadikshaik01)
+<p>
+  <a href="https://github.com/sadikshaik01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shaik-sadik-b23516328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shaiksadik2968@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -20,34 +22,49 @@
 
 ## 🧑‍💻 About Me
 
-> *"Code is craft. I build things people enjoy using."*
+I'm a **Computer Science student at KL University** interested in building modern web applications and exploring practical applications of **AI and Machine Learning**.
 
-I'm a **Computer Science student at KL University** with a strong focus on **frontend and full stack web development**. I love turning ideas into polished, performant web experiences — from pixel-perfect UIs to robust backend logic.
-
-- 🎓 &nbsp; Pursuing **B.Tech in CSE** at KL University
-- 💡 &nbsp; Passionate about **UI/UX Design** and **Responsive Web Apps**
-- 🔭 &nbsp; Currently building projects with **React**, **Node.js**, and **MySQL**
-- 📈 &nbsp; Always sharpening my **problem-solving** and **system design** skills
-- 📬 &nbsp; Reach me at **shaiksadik2968@gmail.com**
+* 🎓 B.Tech in **Computer Science & Engineering**
+* 💻 Interested in **Full Stack Development**
+* 🎨 Interested in clean and responsive web experiences
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 🚀 Building practical projects and continuously improving my skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### 💻 Languages
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### ☕ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ---
 
@@ -55,90 +72,129 @@ I'm a **Computer Science student at KL University** with a strong focus on **fro
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎨 Online Art Gallery
-A modern, responsive web app for browsing and purchasing artworks with an elegant UI.
+<h3>🎨 Online Art Gallery</h3>
 
-**Stack:** `HTML` `CSS` `JavaScript`
+<p>
+A modern and responsive web application for exploring and purchasing artworks with a clean user interface.
+</p>
 
-[![Repo](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sadikshaik01/OnlineArtGallery-Project)
-[![Live](https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://onlineartgallery.slayercore.me/)
+<b>Tech Stack</b>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<a href="https://github.com/sadikshaik01/OnlineArtGallery-Project">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://onlineartgallery.slayercore.me/">
+<img src="https://img.shields.io/badge/Live%20Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📰 News Aggregator
-Full-stack news app that fetches and categorizes real-time headlines with a clean interface.
+<h3>📰 News Aggregator</h3>
 
-**Stack:** `HTML` `CSS` `JavaScript` `Node.js`
+<p>
+A news aggregation application that collects and displays articles from different categories through a simple and user-friendly interface.
+</p>
 
-[![Repo](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sadikshaik01/News-Aggregator-project)
+<b>Tech Stack</b>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+</p>
+
+<a href="https://github.com/sadikshaik01/News-Aggregator-project">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 💼 Job Portal
-Responsive job platform with smart filtering, job listings, and application management.
+<h3>🚦 Traffic Sign Classification</h3>
 
-**Stack:** `HTML` `CSS` `JavaScript` `MySQL`
+<p>
+A machine learning project designed to identify and classify different types of traffic signs from images.
+</p>
 
-[![Repo](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sadikshaik01/JobPortel)
+<b>Tech Stack</b>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+</p>
+
+<a href="https://github.com/sadikshaik01">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🔜 More Coming Soon
-Currently working on new projects. Stay tuned!
+<h3>📚 Currently Exploring</h3>
 
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sadikshaik01)
+<p>
+Continuously improving my knowledge in:
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,spring,python,pytorch" />
+</p>
+
+<p>
+<strong>Full Stack Development • AI/ML • Problem Solving</strong>
+</p>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🏆 Certifications
+## 📌 Technologies I Work With
 
-| 🎖️ Certification | 🏢 Issuer |
-|:---|:---|
-| MultiCloud Networking | ☁️ Cloud Academy |
-| AI Foundations | 🔶 Oracle |
-| CRM Fundamentals | ☁️ Salesforce |
-| Business English | 🎓 Cambridge Linguaskill |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sadikshaik01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=sadikshaik01&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikshaik01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</div>
+| Area         | Technologies                                             |
+| :----------- | :------------------------------------------------------- |
+| 💻 Languages | Python, Java, JavaScript, HTML, CSS                      |
+| ⚛️ Frontend  | React                                                    |
+| ☕ Backend    | Spring Boot                                              |
+| 🗄️ Database | SQL, MySQL, PostgreSQL                                   |
+| 🤖 AI / ML   | NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, OpenCV |
+| 🔧 Tools     | Git, GitHub                                              |
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to **internships**, **collaborations**, and **open source contributions**. Feel free to reach out!
-
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaiksadik2968@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-sadik-b23516328/)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadikshaik01)
+<a href="https://github.com/sadikshaik01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shaik-sadik-b23516328/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shaiksadik2968@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Always learning • Always building • Always improving**
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
